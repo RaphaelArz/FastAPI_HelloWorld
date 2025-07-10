@@ -42,7 +42,7 @@ docker-compose up --build -d
 
 ### 3️⃣ Accéder à l'API
 
-- **Endpoint principal** : [http://127.0.0.1:8000](http://127.0.0.1:8000)
+- **Endpoint principal** : [aaaaa](http://127.0.0.1:8000)
 - **Swagger UI (Documentation API)** : [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 - **Redoc UI** : [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
 
